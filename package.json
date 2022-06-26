@@ -1,0 +1,23 @@
+{
+  "name": "https_prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthebat/HTTPS_PRAC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jthebat/HTTPS_PRAC/issues"
+  },
+  "homepage": "https://github.com/jthebat/HTTPS_PRAC#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
