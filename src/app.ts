@@ -16,7 +16,7 @@ connect();
 // APIs
 app.use("/api/product", [productRouter]);
 app.get('/', (req, res) =>{
-  res.send('test page')
+  res.send('질럿질럿질럿')
 });
 
 
